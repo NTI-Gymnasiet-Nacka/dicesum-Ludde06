@@ -1,6 +1,6 @@
 # Dice sum probability calculator
 # Författare: Ludwig Metelius
-# Datum: 2024-08-22
+# Datum:  2024-08-22
 
 def main():
     N, M = input("").split()
